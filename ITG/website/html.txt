@@ -1,0 +1,25 @@
+Um eine html seite zu erstellen benötigen wir zuerste die grundelagen die kann in viesula studios code mit ! erszeugt erden 
+
+html heißt ausgeschrien hyper text language 
+
+1 erstellen einer html seite als erstes wird die html seite erstellt in den man in einer ide ein ! eingibt und enter drückz 
+
+grundstrucktur einer html seite 
+
+die grundstrucktur einer html seite sieht wiefolgt aus 
+
+html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine erste HTMl Seite</title>
+</head>
+<body>
+<h1> Willkommen auf meiner html seite </1>
+<p> Das ist ein absatz. </p>    
+</body>
+</html>
